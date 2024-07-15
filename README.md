@@ -15,7 +15,7 @@ I'm an experienced DevOps engineer with a track record of automating complex wor
 ![](https://img.shields.io/badge/Container_Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
 
-### 🚀 Featured Projects
+### 🚀 Devops Projects
 
 #### [Project Name 1](link-to-repo)
 Brief description of the project, highlighting your role and the technologies used.

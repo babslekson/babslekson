@@ -25,7 +25,7 @@ Architected a secure, scalable, and cost-effective AWS infrastructure for hostin
 - Application Load Balancers with TLS certificates
 
 This solution provides a robust foundation for high-traffic websites, setting the stage for future automation projects.
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/babslekson/dareyio-pbl/main/pbl15/architecture.png" alt="Project Architecture" width="60%"/>
 </p>
 

@@ -17,8 +17,14 @@ I'm an experienced DevOps engineer with a track record of automating complex wor
 
 ### 🚀 Devops Projects
 
-#### [Project Name 1](link-to-repo)
-Brief description of the project, highlighting your role and the technologies used.
+#### [AWS Cloud Solution for Dual Company website using reverse proxy technology](link-to-repo)
+Architected a secure, scalable, and cost-effective AWS infrastructure for hosting two enterprise websites using reverse proxy technology. Implemented:
+
+- EC2 instances with Launch Templates
+- Auto Scaling and Target Groups
+- Application Load Balancers with TLS certificates
+
+This solution provides a robust foundation for high-traffic websites, setting the stage for future automation projects.
 
 #### [Project Name 2](link-to-repo)
 Another project description, emphasizing the DevOps practices implemented.

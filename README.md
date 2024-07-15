@@ -29,10 +29,15 @@ This solution provides a robust foundation for high-traffic websites, setting th
   <img src="https://raw.githubusercontent.com/babslekson/dareyio-pbl/main/pbl15/architecture.png" alt="Project Architecture" width="60%"/>
 </p>
 
-#### [Project Name 2](link-to-repo)
-Another project description, emphasizing the DevOps practices implemented.
+#### [Infrastructure as a Code (IaC) using Packer | Terraform | Terraform Cloud | Ansible in AWS](link-to-repo)
+Developed a fully automated solution for deploying the dual-website AWS infrastructure, enhancing reproducibility and efficiency:
+- Packer for creating custom AMIs
+- Ansible for configuration management
+- Terraform for infrastructure as code (IaC)
+#### [End to End Continous Integration (CI) using JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP](link-to-repo)
+A third project showcasing your skills in automation, scalability, or any other relevant area.
 
-#### [Project Name 3](link-to-repo)
+#### [End to End Continous Integration (CI) using JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP](link-to-repo)
 A third project showcasing your skills in automation, scalability, or any other relevant area.
 
 ### 📈 GitHub Stats

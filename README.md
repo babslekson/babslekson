@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" alt="DevOps" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/babslekson/dareyio-pbl/main/Deploying-Applicattions-into-Kubernetes-Cluster_P22/images/devopslg.png" alt="DevOps" width="100%"/>
+
 
 # Hello, I'm Olalekan Babayemi 👋
 

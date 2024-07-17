@@ -42,13 +42,17 @@ A third project showcasing your skills in automation, scalability, or any other 
 
 #### [Implemented a web solution for a DevOps team using LAMP | MySQL | NFS | JENKINS | LOAD BALANCER | TLS.](https://github.com/babslekson/Devops-pbl/tree/main/Devops_Tooling_Website_Solution_P7)
 This project demostrates a robust web solution developed in three phases:
-setting up a 3 tier tooling architecture, integrating a load balncer for improve performance, and utilizing Jenkins for continuous integration to automate deploymets
+setting up a 3 tier tooling architecture, integrating a load balancer for improve performance, utilizing Jenkins for continuous integration to automate deploymets and configuring TLS/SSL.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/babslekson/Devops-pbl/main/Load-Balancer-Solution-With-Nginx-and-SSL_TLS_P10/pbl10/project10.png" alt="Project Architecture" width="60%"/>
 </p>  
-### Phases
-1. Phase 1: Developed a 3 tier tooling architecture
+
+#### Phases
+1. Phase 1: Developed a 3 tier tooling architecture. [Read More](https://github.com/babslekson/Devops-pbl/blob/main/Devops_Tooling_Website_Solution_P7/README.md)
+2. Phase 2: Load balancer Solution with Apache. [Read More](https://github.com/babslekson/Devops-pbl/tree/main/Load-Balancer-Solution-With-Apache_P8#readme)
+3. Phase 3: integrating Jenkins for Continous integration. [Read More](https://github.com/babslekson/Devops-pbl/blob/main/Tooling-Website-Deployment-Automation-With-Continuous-Integration_P9/README.md)
+4. Phase 4: Registering a New Domian and Configuring SSL/TLS. [Read More](https://github.com/babslekson/Devops-pbl/blob/main/Load-Balancer-Solution-With-Nginx-and-SSL_TLS_P10/README.md)
 
 ### 📈 GitHub Stats
 

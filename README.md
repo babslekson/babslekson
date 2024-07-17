@@ -41,6 +41,9 @@ Developed a fully automated solution for deploying the dual-website AWS infrastr
 A third project showcasing your skills in automation, scalability, or any other relevant area.
 
 #### [implemented a web solution for a DevOps team using LAMP stack with remote Database and NFS servers.](link-to-repo)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/babslekson/Devops-pbl/main/Load-Balancer-Solution-With-Nginx-and-SSL_TLS_P10/pbl10/project10.png" alt="Project Architecture" width="60%"/>
+</p>  
 A third project showcasing your skills in automation, scalability, or any other relevant area.
 
 ### 📈 GitHub Stats

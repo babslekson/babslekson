@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/babslekson/dareyio-pbl/main/Deploying-Applicattions-into-Kubernetes-Cluster_P22/images/devopslg.png" alt="DevOps" width="100%"/>
+<img src="https://raw.githubusercontent.com/babslekson/Devops-pbl/main/Deploying-Applicattions-into-Kubernetes-Cluster_P22/images/devopslg.png" alt="DevOps" width="100%"/>
 
 ### About Me
 

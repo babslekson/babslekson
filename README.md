@@ -40,11 +40,15 @@ Developed a fully automated solution for deploying the dual-website AWS infrastr
 #### [End to End Continous Integration (CI) using JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP](link-to-repo)
 A third project showcasing your skills in automation, scalability, or any other relevant area.
 
-#### [implemented a web solution for a DevOps team using LAMP stack with remote Database and NFS servers.](link-to-repo)
+#### [Implemented a web solution for a DevOps team using LAMP | MySQL | NFS | JENKINS | LOAD BALANCER | TLS.](https://github.com/babslekson/Devops-pbl/tree/main/Devops_Tooling_Website_Solution_P7)
+This project demostrates a robust web solution developed in three phases:
+setting up a 3 tier tooling architecture, integrating a load balncer for improve performance, and utilizing Jenkins for continuous integration to automate deploymets
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/babslekson/Devops-pbl/main/Load-Balancer-Solution-With-Nginx-and-SSL_TLS_P10/pbl10/project10.png" alt="Project Architecture" width="60%"/>
 </p>  
-A third project showcasing your skills in automation, scalability, or any other relevant area.
+### Phases
+1. Phase 1: Developed a 3 tier tooling architecture
 
 ### 📈 GitHub Stats
 

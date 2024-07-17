@@ -37,7 +37,7 @@ Developed a fully automated solution for deploying the dual-website AWS infrastr
 #### [End to End Continous Integration (CI) using JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP](link-to-repo)
 A third project showcasing your skills in automation, scalability, or any other relevant area.
 
-#### [End to End Continous Integration (CI) using JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP](link-to-repo)
+#### [implemented a web solution for a DevOps team using LAMP stack with remote Database and NFS servers.](link-to-repo)
 A third project showcasing your skills in automation, scalability, or any other relevant area.
 
 ### 📈 GitHub Stats

@@ -41,7 +41,7 @@ Developed a fully automated solution for deploying the dual-website AWS infrastr
 A third project showcasing your skills in automation, scalability, or any other relevant area.
 
 #### [Implemented a web solution for a DevOps team using LAMP | MySQL | NFS | JENKINS | LOAD BALANCER | TLS.](https://github.com/babslekson/Devops-pbl/tree/main/Devops_Tooling_Website_Solution_P7)
-This project demostrates a robust web solution developed in three phases:
+This project demostrates a robust web solution developed in four phases:
 setting up a 3 tier tooling architecture, integrating a load balancer for improve performance, utilizing Jenkins for continuous integration to automate deploymets and configuring TLS/SSL.
 
 <p align="left">

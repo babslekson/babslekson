@@ -17,7 +17,7 @@ I'm an experienced DevOps engineer with a track record of automating complex wor
 
 ### 🚀 Devops Projects
 
-#### [AWS Cloud Solution for Dual Company website using reverse proxy technology](https://github.com/babslekson/dareyio-pbl/blob/main/project15.md))
+#### [AWS Cloud Solution for Dual Company website using reverse proxy technology](https://github.com/babslekson/Devops-pbl/blob/main/project15.md))
 Architected a secure, scalable, and cost-effective AWS infrastructure for hosting two enterprise websites using reverse proxy technology. Implemented:
 
 - EC2 instances with Launch Templates

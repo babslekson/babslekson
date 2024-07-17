@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/babslekson/Devops-pbl/main/Deploying-Applicattions-into-Kubernetes-Cluster_P22/images/devopslg.png" alt="DevOps" width="100%"/>
 
+
+
 ### About Me
 
 I'm an experienced DevOps engineer with a track record of automating complex workflows and optimizing cloud infrastructure. With expertise in CI/CD pipelines, containerization, and Infrastructure as Code, I specialize in bridging the gap between development and operations to deliver scalable, reliable solutions. I thrive on tackling challenging problems and continuously expanding my skills in this ever-evolving field, always aiming to implement best practices and cutting-edge technologies.

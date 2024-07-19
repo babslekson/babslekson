@@ -37,7 +37,7 @@ Developed a fully automated solution for deploying the dual-website AWS infrastr
 - Packer for creating custom AMIs
 - Ansible for configuration management
 - Terraform for infrastructure as code (IaC)
-#### [End to End Continous Integration (CI) using JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP](https://github.com/babslekson/Devops-pbl/blob/main/End%20to%20End%20Continous%20Integration%20Project_P14/README.md)
+#### [End to End Continous Integration (CI) using JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP](https://github.com/babslekson/Devops-pbl/blob/main/End-to-End-Continous-Integration_P14/README.md)
 <p align="left">
   <img src="https://raw.githubusercontent.com/babslekson/Devops-pbl//main/End-to-End-Continous-Integration_P14/images/pipeline.png" alt="Project Architecture" width="60%"/>
 </p>  

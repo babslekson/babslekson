@@ -32,7 +32,7 @@ This solution provides a robust foundation for high-traffic websites, setting th
   <img src="https://raw.githubusercontent.com/babslekson/Devops-pbl/main/AWS-Cloud%20-Solution-Using-Reverse-Proxy-Technology_P15/pbl15/architecture.png" alt="Project Architecture" width="60%"/>
 </p>
 
-#### [Infrastructure as a Code (IaC) using Packer | Terraform | Terraform Cloud | Ansible in AWS](link-to-repo)
+#### [Infrastructure as a Code (IaC) using Packer | Terraform | Terraform Cloud | Ansible in AWS](https://github.com/babslekson/terraform-cloud)
 Developed a fully automated solution for deploying the dual-website AWS infrastructure, enhancing reproducibility and efficiency:
 - Packer for creating custom AMIs
 - Ansible for configuration management

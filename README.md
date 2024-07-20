@@ -50,7 +50,7 @@ For a detailed walkthrough of the entire project, from start to finish, icluding
 </p>  
 
 
-#### [Implemented a web solution for a DevOps team using LAMP | MySQL | NFS | JENKINS | LOAD BALANCER | TLS.](https://github.com/babslekson/Devops-pbl/tree/main/Devops_Tooling_Website_Solution_P7)
+#### [Implemented a web solution for a DevOps team using LAMP | MySQL | NFS | JENKINS | LOAD BALANCER | TLS.](https://github.com/babslekson/Devops-pbl/blob/main/Devops_Tooling_Website_Solution_P7/README.md)
 This project demostrates a robust web solution developed in four phases:
 setting up a 3 tier tooling architecture, integrating a load balancer for improve performance, utilizing Jenkins for continuous integration to automate deploymets and configuring TLS/SSL.
 

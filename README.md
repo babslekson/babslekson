@@ -29,7 +29,7 @@ Implemented:
 
 This solution provides a robust foundation for high-traffic websites, setting the stage for future automation projects.
 <p align="left">
-  <img src="https://raw.githubusercontent.com/babslekson/Devops-pbl/main/AWS-Cloud%20-Solution-Using-Reverse-Proxy-Technology_P15/pbl15/architecture.png" alt="Project Architecture" width="60%"/>
+  <img src="https://raw.githubusercontent.com/babslekson/Devops-pbl/main/AWS-Cloud-Solution-Using-Reverse-Proxy-Technology_P15/pbl15/architecture.png" alt="Project Architecture" width="60%"/>
 </p>
 
 #### [Infrastructure as a Code (IaC) using Packer | Terraform | Terraform Cloud | Ansible in AWS](https://github.com/babslekson/terraform-cloud)

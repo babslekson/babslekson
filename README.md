@@ -39,11 +39,11 @@ Developed a fully automated solution for deploying the dual-website AWS infrastr
 - **Ansible**: Used for provisioning and configuring the servers
 - **Terraform Cloud**: Remote state management, team collaboration, and automated runs.
 
-For a detailed walkthrough of the entire project, from start to finish, icluding step-by-step instruction and explanations, please read this documentation. It is divided into 4 parts
+For a detailed walkthrough of the entire project, from start to finish, including step-by-step instruction and explanations, please read this documentation. It is divided into 3 parts
 - *
 - *
 - *
-- *
+
 #### [End to End Continous Integration (CI) using JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP](https://github.com/babslekson/Devops-pbl/blob/main/End-to-End-Continous-Integration_P14/README.md)
 <p align="left">
   <img src="https://raw.githubusercontent.com/babslekson/Devops-pbl//main/End-to-End-Continous-Integration_P14/images/pipeline.png" alt="Project Architecture" width="60%"/>

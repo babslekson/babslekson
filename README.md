@@ -70,14 +70,13 @@ setting up a 3 tier tooling architecture, integrating a load balancer for improv
 
 ### 🌱 I'm currently learning
 
-- [Technology or skill you're currently focusing on]
-- [Another area of interest or growth]
+- Kubernetes
+
 
 ### 📫 How to reach me
 
 - LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
 - Twitter: [@YourTwitterHandle](your-twitter-url)
-- Blog: [Your Blog](your-blog-url)
 
 ### 💬 Ask me about
 

@@ -40,9 +40,9 @@ Developed a fully automated solution for deploying the dual-website AWS infrastr
 - **Terraform Cloud**: Remote state management, team collaboration, and automated runs.
 
 For a detailed walkthrough of the entire project, from start to finish, including step-by-step instruction and explanations, please read this documentation. It is divided into 3 parts
-- Phase 1: Infrastructure Setup with Terraform. [Read More]()
-- Phase 2: Refactoring and Modularization of Terraform Code. [Read More]()
-- Phase 3: Advanced Deployment with Terraform Cloud, Packer, and Ansible. [Read More]()
+- Phase 1: Infrastructure Setup with Terraform. [Read More](https://github.com/babslekson/Devops-pbl/blob/main/Automate-Infracture-With-Iac-Using-Terraform_PART1_P17/README.md)
+- Phase 2: Refactoring and Modularization of Terraform Code. [Read More](https://github.com/babslekson/Devops-pbl/blob/main/Automate-Infracture-With-Iac-Using-Terraform_PART2_P18/README.md)
+- Phase 3: Advanced Deployment with Terraform Cloud, Packer, and Ansible. [Read More](https://github.com/babslekson/Devops-pbl/blob/main/Automate-Infracture-With-Iac-Using-Terraform_PART3_P19/README.md)
 #### [End to End Continous Integration (CI) using JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP](https://github.com/babslekson/Devops-pbl/blob/main/End-to-End-Continous-Integration_P14/README.md)
 <p align="left">
   <img src="https://raw.githubusercontent.com/babslekson/Devops-pbl//main/End-to-End-Continous-Integration_P14/images/pipeline.png" alt="Project Architecture" width="60%"/>

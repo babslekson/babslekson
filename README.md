@@ -74,8 +74,8 @@ setting up a 3 tier tooling architecture, integrating a load balancer for improv
 
 ### 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
-- Twitter: [@YourTwitterHandle](your-twitter-url)
+- LinkedIn: [LinkedIn Profile](your-linkedin-url)
+- Twitter: [@](your-twitter-url)
 
 ### 💬 Ask me about
 
@@ -86,8 +86,7 @@ setting up a 3 tier tooling architecture, integrating a load balancer for improv
 - DevOps best practices
 - Cloud architecture
 - Automation strategies
-- [Any other areas of expertise]
 
 ---
 
-⭐️ From [yourusername](https://github.com/babslekson)
+⭐️ From [babslekson](https://github.com/babslekson)

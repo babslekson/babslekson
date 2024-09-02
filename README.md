@@ -67,14 +67,9 @@ setting up a 3 tier tooling architecture, integrating a load balancer for improv
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=babslekson&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌱 I'm currently learning
-
-- Kubernetes
-
-
 ### 📫 How to reach me
 
-- LinkedIn: [LinkedIn Profile](your-linkedin-url)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/babayemiolalekan)
 - Twitter: [@](your-twitter-url)
 
 ### 💬 Ask me about
